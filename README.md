@@ -1,0 +1,2 @@
+# ScottBarrettPythonDSAUdemy
+https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=KEEPLEARNING
